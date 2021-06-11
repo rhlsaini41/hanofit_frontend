@@ -18,6 +18,8 @@ import com.coin.hanofit.databinding.ActivityMainBinding;
 import android.view.Menu;
 import android.view.MenuItem;
 
+// testing github
+
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
